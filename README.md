@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christpher! <a href="https://www.linkedin.com/in/christopherpambou/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Christopher! <a href="https://www.linkedin.com/in/christopherpambou/">Aspiring Cybersecurity Professional</a>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

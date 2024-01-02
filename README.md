@@ -2,6 +2,8 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Creating a live SOC / Honeynet in Azure](https://github.com/CPamb/Azure-SOC)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ChristopherPambou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

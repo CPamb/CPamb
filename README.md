@@ -2,10 +2,9 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SOC / Honeynet in Azure](https://github.com/CPamb/Azure-SOC)
+   - [SOC / Honeynet in Azure](https://github.com/CPamb/Azure-SOC)
 
-
-<h2>👨‍💻 Python Cybersecurity Projects:</h2>
+<h2> 🐍 Python Cybersecurity projects:</h2>
 
   - [Creating a simple password manager using Python](https://github.com/CPamb/Password_Manager_Python)
   

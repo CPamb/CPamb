@@ -12,6 +12,7 @@
 
 <h2> 💻 Powershell Cybersecurity projects:</h2>
 
+- [File Integrity Monitor](https://github.com/CPamb/File-Integrity-Monitor)
 
   
 <h2> 🤳 Connect with me:</h2>

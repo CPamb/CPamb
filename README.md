@@ -6,8 +6,9 @@
 
 <h2> 🐍 Python Cybersecurity projects:</h2>
 
-  - [Creating a simple password manager using Python](https://github.com/CPamb/Password_Manager_Python)
-  - [KeyLogger using Python](https://github.com/CPamb/Keylogger_Python)
+  - [Simple password manager](https://github.com/CPamb/Password_Manager_Python)
+  - [KeyLogger](https://github.com/CPamb/Keylogger_Python)
+  - [Password Generator](https://github.com/CPamb/Password_generator_python)
   
 <h2> 🤳 Connect with me:</h2>
 

@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
    - [SOC / Honeynet in Azure](https://github.com/CPamb/Azure-SOC)
+   - [Vulnerability Management Mini Lab](https://github.com/CPamb/Vulnerability-Management-Mini-Lab)
 
 <h2> 🐍 Python Cybersecurity projects:</h2>
 

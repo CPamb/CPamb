@@ -11,6 +11,8 @@
   - [KeyLogger](https://github.com/CPamb/Keylogger_Python)
   - [Password Generator](https://github.com/CPamb/Password_generator_python)
 
+<h2>🧑🏿‍💻 Python Projects:</h2>
+
 <h2> 💻 Powershell Cybersecurity projects:</h2>
 
 - [File Integrity Monitor](https://github.com/CPamb/File-Integrity-Monitor)
